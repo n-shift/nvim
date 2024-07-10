@@ -24,8 +24,8 @@ require("utils").set_nvim {
 
         wildignore = ".git,target",
 
-        shell = "nu",
-        shellcmdflag = "-c",
+--        shell = "nu",
+--        shellcmdflag = "-c",
     },
     glob = {
         mapleader = " ",
